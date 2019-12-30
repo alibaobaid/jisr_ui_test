@@ -35,4 +35,4 @@ Project is: _in progress_,
 * to avoid any test case put x before the (it) rspec keyword
 
 ## Contact
-Created by [@Ali Amrah](https://www.facebook.com/ALIB555) - feel free to contact me!
+Created by [@Ali Amrah](https://www.facebook.com/alibaobaid.me) - feel free to contact me!
