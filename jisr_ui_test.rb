@@ -6,11 +6,11 @@ require_relative "pages/change_password.rb"
 require_relative "pages/users_power.rb"
 
 # Data   
-customer_name = "1402"
-customer_password = "1402"
-super_admin_name = "255"
-super_admin_password = "othman123"
-jisr_url = "http://clickapps.dev.jisr.net/"
+customer_name = "" # enter user name here
+customer_password = "" # enter password
+super_admin_name = "" # enter user name here
+super_admin_password = "" # enter password
+jisr_url = "" #enter jisr hr url
 
 # Rspec Configuration  
 RSpec.configure do |config|
